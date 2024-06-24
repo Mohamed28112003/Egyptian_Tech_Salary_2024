@@ -21,5 +21,13 @@
 - Map Work Type ✅
 - Map Work Hours ✅
 - Finally, I am saving my data frame that contains only tech jobs. 💯
+# Analysis 
+- Count job title
+  - Salary Distribution For Each Job Title
+  - Compare Each Job Title By Salary
+  - City
+  - Work Hour and Work Type
+  - [Final Report for more details](https://docs.google.com/presentation/d/1WRLzagpyuFu26ajnRjplfZ-9h4w7Jjhf/edit?usp=drive_link&ouid=102165771011244956232&rtpof=true&sd=true)
 
-  # [Report](https://docs.google.com/presentation/d/1WRLzagpyuFu26ajnRjplfZ-9h4w7Jjhf/edit?usp=drive_link&ouid=102165771011244956232&rtpof=true&sd=true)
+
+
