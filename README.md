@@ -27,7 +27,7 @@
 - Compare Each Job Title By Salary ✅
 - City ✅
 - Work Hour and Work Type ✅ 
-  - [Final Report for more details](https://docs.google.com/presentation/d/1WRLzagpyuFu26ajnRjplfZ-9h4w7Jjhf/edit?usp=drive_link&ouid=102165771011244956232&rtpof=true&sd=true) ✅
+- [Final Report for more details](https://docs.google.com/presentation/d/1WRLzagpyuFu26ajnRjplfZ-9h4w7Jjhf/edit?usp=drive_link&ouid=102165771011244956232&rtpof=true&sd=true) ✅
 
 
 
